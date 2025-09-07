@@ -44,4 +44,5 @@ The notebook provides:
 
 Requires Python ≥ 3.8 and the following packages:
 
+```bash
 pip install numpy matplotlib scipy ipython
